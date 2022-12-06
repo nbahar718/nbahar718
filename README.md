@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Nuruddin Bahar.
 
-🔭 I’m currently working on learning GitHub to use in the version control of my upcoming Python projects.
+🔭 I’m currently working on using GitHub for my upcoming Python projects.
 🌱 I’m currently learning Python for data analysis and AI.
 👯 I’m looking to collaborate on projects relevant to biopharmaceutical industries, especially in data mining and visualization.
 💬 Ask me about Microsoft Word, Excel, Outlook, PowerPoint, and VBA, in addition to Python.

@@ -1,11 +1,11 @@
 ### Hi there 👋
 My name is Nuruddin Bahar.
 
-🔭 I’m currently working on using GitHub for my upcoming Python projects. \n
-🌱 I’m currently learning Python for data analysis and AI. \n
-👯 I’m looking to collaborate on projects relevant to biopharmaceutical industries, especially in data mining and visualization. \n
-💬 Ask me about Microsoft Word, Excel, Outlook, PowerPoint, and VBA, in addition to Python. \n
-📫 How to reach me: email me at nbahar2@gmail.com \n
+🔭 I’m currently working on using GitHub for my upcoming Python projects.  <br>
+🌱 I’m currently learning Python for data analysis and AI.  
+👯 I’m looking to collaborate on projects relevant to biopharmaceutical industries, especially in data mining and visualization.  
+💬 Ask me about Microsoft Word, Excel, Outlook, PowerPoint, and VBA, in addition to Python.  
+📫 How to reach me: email me at nbahar2@gmail.com  
 
 <!--
 **nbahar718/nbahar718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
